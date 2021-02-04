@@ -1,3 +1,6 @@
 ﻿读我
 
 这是说明文档。
+
+向远程仓库添加别名
+ git remote add origin https://github.com/zhangkmsjtu/git-demo.git
