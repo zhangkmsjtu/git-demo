@@ -9,3 +9,6 @@ git push -u origin master
 
 向远程仓库提交的最简
 git push
+
+git clone https://github.com/zhangkmsjtu/git-demo.git
+这是clone后提交的内容
