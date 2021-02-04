@@ -4,7 +4,8 @@
 
 向远程仓库添加别名
  git remote add origin https://github.com/zhangkmsjtu/git-demo.git
-
+简化处理
+git push -u origin master
 
 向远程仓库提交的最简
 git push
