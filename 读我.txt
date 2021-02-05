@@ -1,5 +1,18 @@
 ﻿读我
 
+git命令集：
+
+1、git使用前配置
+git --version
+git config --list
+git config --global user.name 提交人姓名
+git config --global user.email 提交人邮箱地址
+
+2、提交步骤
+git init
+git status
+git add
+
 这是说明文档。
 
 向远程仓库添加别名
