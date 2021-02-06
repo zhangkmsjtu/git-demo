@@ -13,6 +13,11 @@ git init
 git status
 git add
 
+3、撤销操作
+git checkout 文件名  用暂存区文件替换工作目录文件
+git rm --cached 文件名  将文件从暂存区中删除
+
+
 这是说明文档。
 
 向远程仓库添加别名
