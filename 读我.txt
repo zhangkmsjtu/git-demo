@@ -1,4 +1,4 @@
-﻿读我
+读我,这是说明文档。
 
 git命令集：
 
@@ -30,10 +30,10 @@ git stash pop   恢复改动
 
 6、GitHub远程仓库
 git push 远程仓库地址 master
+git remote add origin 远程仓库地址
+git push origin master
+git push -u origin master
 
-
-
-这是说明文档。
 
 向远程仓库添加别名
  git remote add origin https://github.com/zhangkmsjtu/git-demo.git
@@ -43,5 +43,9 @@ git push -u origin master
 向远程仓库提交的最简
 git push
 
+
+7、克隆仓库
 git clone https://github.com/zhangkmsjtu/git-demo.git
 这是clone后提交的内容
+
+8、解决冲突
