@@ -18,6 +18,11 @@ git checkout 文件名  用暂存区文件替换工作目录文件
 git rm --cached 文件名  将文件从暂存区中删除
 git reset --hard 提交版本ID   将库中更早版本恢复到暂存区和工作目录
 
+4、分支命令
+git branch 查看分支
+git branch 分支名称   创建分支
+git branch -d 分支名称   删除分支
+
 
 这是说明文档。
 
