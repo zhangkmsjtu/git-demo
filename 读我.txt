@@ -24,6 +24,11 @@ git branch 分支名称   创建分支
 git branch -d 分支名称   删除分支
 git merge 分支名称   合并分支
 
+5、暂时保存更改
+git stash    存储临时改动
+git stash pop   恢复改动
+
+
 
 
 这是说明文档。
