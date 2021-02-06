@@ -28,6 +28,8 @@ git merge 分支名称   合并分支
 git stash    存储临时改动
 git stash pop   恢复改动
 
+6、GitHub远程仓库
+git push 远程仓库地址 master
 
 
 
