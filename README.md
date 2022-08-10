@@ -14,7 +14,10 @@ ssh -T git@github.com
 
 
 git status
+
 git add init.txt
+
 git commit -m init.txt
+
 git push
 
