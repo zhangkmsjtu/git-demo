@@ -21,3 +21,4 @@ git commit -m init.txt
 
 git push
 
+详细命令、指令请查看<读我.txt>
